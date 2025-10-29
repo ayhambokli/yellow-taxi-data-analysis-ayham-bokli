@@ -26,8 +26,8 @@ It contains trip-level information including timestamps, locations, fares, tips,
 [NYC TLC Yellow Taxi Data (GitHub)](https://github.com/m-gauer/NYC_TLC_Yellow_Taxi_Data)
 
 📘 **Data Dictionary:**  
-See the included file:  
-[`data_dictionary.pdf`](./data_dictionary.pdf)
+📄 **Data Dictionary:**  
+[Data Dictionary – Yellow Taxi Trip Records (March 18, 2025)](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
 
 ---
 
