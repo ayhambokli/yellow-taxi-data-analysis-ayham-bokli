@@ -61,21 +61,27 @@ All code runs within a standard Jupyter Notebook environment.
 ---
 
 ## 💡 Key Findings
+
 | Category | Insight |
 |-----------|----------|
-| **Demand** | Trips are heavily concentrated in Manhattan and airports |
-| **Payment** | Credit card payments dominate and show higher tipping rates |
-| **Revenue** | JFK and LaGuardia routes are top contributors to revenue |
-| **Congestion** | High congestion surcharges correlate with longer average fares |
-| **Trip Efficiency** | Short urban routes (<3 miles) occur most frequently |
+| **Demand** | Most trips are concentrated in Manhattan and airport areas (JFK, LaGuardia). |
+| **Revenue** | Airport and Midtown routes generate the highest total revenue. |
+| **Payment Behavior** | Credit card payments dominate and show higher average tips. |
+| **Trip Efficiency** | Short-distance trips (<3 miles) are most frequent and operationally efficient. |
+| **Congestion** | Higher congestion surcharges correlate with longer average fares. |
 
 ---
 
 ## 🧭 Recommendations
-- **Dynamic pricing optimization:** Adjust pricing for high-demand routes (JFK ↔ Midtown).  
-- **Driver allocation:** Increase availability in peak evening hours and airport zones.  
-- **Customer insight:** Encourage digital payments for higher tipping potential.  
-- **Data integration:** Combine trip data with weather or event datasets for demand forecasting.  
+
+- **Optimize Demand & Operations:** Increase driver availability during peak hours and use demand forecasts for better fleet scheduling.  
+- **Dynamic & Distance-Based Pricing:** Apply surge pricing during peak times and adjust long-trip fares to improve revenue per mile.  
+- **Customer & Tip Optimization:** Promote digital payments, reward high tip performance, and focus service training on evening shifts.  
+- **Spatial Strategy:** Deploy more drivers in Midtown and airport zones while expanding coverage in underrepresented boroughs.  
+- **Strategic Impact:** Boosts revenue per trip, improves operational efficiency, and enhances customer satisfaction.
+
+- **Strategic Impact:** Improves trip profitability, driver efficiency, and customer satisfaction — enabling sustainable revenue growth and stronger market presence.
+
 
 ---
 
